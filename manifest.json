@@ -1,7 +1,7 @@
 {
-  "name": "Colis Voyageurs",
-  "short_name": "Colis",
-  "description": "Envoyez vos colis avec des voyageurs de confiance",
+  "name": "JIBLI DZ — Colis France ⇄ Algérie",
+  "short_name": "JIBLI DZ",
+  "description": "Envoyez vos colis entre la France et l'Algérie avec des voyageurs de confiance",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fdfaf4",
